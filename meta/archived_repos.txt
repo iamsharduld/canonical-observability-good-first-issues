@@ -1,0 +1,11 @@
+cos-lite-bundle
+tempo-bundle
+mimir-bundle
+karma-alertmanager-proxy-k8s-operator
+karma-k8s-operator
+mimir-k8s-operator
+parca-operator
+tempo-k8s-operator
+tempo-worker-k8s-operator
+tempo-coordinator-k8s-operator
+traefik-route-k8s-operator
