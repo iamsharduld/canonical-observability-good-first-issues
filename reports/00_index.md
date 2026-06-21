@@ -8,4 +8,5 @@ _Generated 2026-06-16 from 104 candidates across 58 repos._
 - [04 — Confirmed bug inventory](04_bug_inventory.md)
 - [05 — Live integration reproduction summary](05_live_repro_summary.md)
 - [06 — Per-category breakdown](06_by_category.md)
+- [07 — Independent verification & final curated list](07_verification_final_list.md) _(added 2026-06-22)_
 - `aggregates.csv` — machine-readable aggregate tables
